@@ -88,22 +88,6 @@ The project includes SQL analysis for:
 - Average delivery time
 - Repeat customer analysis
 
-### SQL Concepts Used
-
-- `SELECT`
-- `WHERE`
-- `GROUP BY`
-- `ORDER BY`
-- `JOIN`
-- `INNER JOIN`
-- Aggregate Functions
-- `CASE`
-- `RANK()`
-- `DENSE_RANK()`
-- `LAG()`
-- Window Functions
-- CTEs
-- Date Functions
 
 ---
 
