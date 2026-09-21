@@ -155,18 +155,9 @@ Visualizations include:
 ecommerce-data-analysis/
 │
 ├── data/
-│   ├── raw/
-│   └── processed/
-│       ├── ecommerce_master.csv
-│       └── ecommerce_final.csv
 │
-├── sql/
-│   └── analysis_queries.sql
+├── analysis_queries.sql
 │
-├── notebooks/
-│   └── ecommerce_analysis.ipynb
-│
-├── images/
-│   └── analysis.png
+├── ecommerce_analysis.ipynb
 │
 └── README.md
